@@ -7,13 +7,14 @@ function Navbar() {
   const value = useContext( DataContext)
   const [cart] = value.cart
 
-    const toogleMenu = () => {
-        document.getElementById("mobile-menu__open").classList.toggle("hidden");
-        document.getElementById("mobile-menu__close").classList.toggle("hidden");
-        document.getElementById("mobile-menu__items").classList.toggle("hidden");
-      }
+    
       
       useEffect(() => {
+        const toogleMenu = () => {
+          document.getElementById("mobile-menu__open").classList.toggle("hidden");
+          document.getElementById("mobile-menu__close").classList.toggle("hidden");
+          document.getElementById("mobile-menu__items").classList.toggle("hidden");
+        }
             
       document.getElementById("mobile-menu__open").addEventListener(
         "click",

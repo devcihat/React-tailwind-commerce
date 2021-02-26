@@ -10,7 +10,7 @@ export const DataProvider = (props) => {
         {
           id: "1",
           name: "Google Pixel - Black",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           hero: "OMG This just came out today!",
@@ -19,7 +19,7 @@ export const DataProvider = (props) => {
         {
           id: "2",
           name: "Samsung S7",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           info: "This is the latest and greatest product from Derp corp.",
@@ -82,7 +82,7 @@ export const DataProvider = (props) => {
         {
           id: "9",
           name: "Google Pixel - Black",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           hero: "OMG This just came out today!",
@@ -91,7 +91,7 @@ export const DataProvider = (props) => {
         {
           id: "10",
           name: "Samsung S7",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           info: "This is the latest and greatest product from Derp corp.",
@@ -183,7 +183,7 @@ export const DataProvider = (props) => {
         {
           id: "20",
           name: "Lenovo V14 82C6008CTX11 ",
-          detail: "Lenovo",
+          detail: "APPLE",
           price: "99",
           count: "1",
           offer: "No srsly GTFO",
@@ -210,7 +210,7 @@ export const DataProvider = (props) => {
         {
           id: "23",
           name: "Lenovo E15 20TD002FAU09 ",
-          detail: "Lenovo",
+          detail: "APPLE",
           price: "99",
           count: "1",
           info: "This is the latest and greatest product from Derp corp.",
@@ -286,7 +286,7 @@ export const DataProvider = (props) => {
         {
           id: "46",
           name: "HeadPhone Product 01",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           hero: "OMG This just came out today!",
@@ -358,7 +358,7 @@ export const DataProvider = (props) => {
         {
           id: "54",
           name: "HeadPhone Product 09",
-          detail: "GOOGLE",
+          detail: "APLLE",
           price: "99",
           count: "1",
           hero: "OMG This just came out today!",
@@ -367,7 +367,7 @@ export const DataProvider = (props) => {
         {
           id: "55",
           name: "HeadPhone Product 10",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           info: "This is the latest and greatest product from Derp corp.",
@@ -424,7 +424,7 @@ export const DataProvider = (props) => {
         {
           id: "31",
           name: "Wacth Product 01",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           hero: "OMG This just came out today!",
@@ -433,7 +433,7 @@ export const DataProvider = (props) => {
         {
           id: "32",
           name: "Wacth Product 02",
-          detail: "GOOGLE",
+          detail: "APPLE",
           price: "99",
           count: "1",
           info: "This is the latest and greatest product from Derp corp.",

@@ -48,7 +48,7 @@ function Footer() {
             </div>
         </div>
     </div>
-    <div className="pt-4 mt-4 pt-6 text-gray-600 border-t border-gray-800 text-center"> © 2019 WeTeach. All rights reserved.</div>
+    <div className="pt-4 mt-4 pt-6 text-gray-600 border-t border-gray-800 text-center"> © 2021 CA Company.</div>
 </footer>
      </>
     )
